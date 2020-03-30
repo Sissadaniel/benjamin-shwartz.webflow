@@ -522,7 +522,7 @@ a {
 }
 
 .pagetransition {
-  width: 33.33vw;
+  width: 33.3vw;
   text-decoration: none;
 }
 
@@ -677,6 +677,10 @@ a {
   align-items: flex-end;
   color: #f16218;
   text-decoration: none;
+}
+
+.link-block-5.hidden {
+  display: none;
 }
 
 .text-block-6 {
